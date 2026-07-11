@@ -1,4 +1,3 @@
-# ISEA-Phase3-TezpurUniversity-Assignment6
 
 ## Project Title
 GUI-Based Multi-Client Chat Application Using TCP
