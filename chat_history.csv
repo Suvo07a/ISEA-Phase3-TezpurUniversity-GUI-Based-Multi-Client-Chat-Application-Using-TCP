@@ -1,6 +1,0 @@
-timestamp,sender,receiver,message_type,message
-12:20:50,suvo,ALL,broadcast,hii
-12:21:07,vishal,ALL,broadcast,hii
-12:21:13,neel,ALL,broadcast,hii
-12:21:18,rahul,ALL,broadcast,hii
-12:21:51,suvo,neel,private,hello neel
