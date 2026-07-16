@@ -6,7 +6,7 @@ A GUI-based multi-client chat system built with Python sockets and Tkinter, exte
 
 ## Overview
 
-This project started in Assignment 6 as a basic multi-client TCP chat application (broadcast messages, private messages, online user list, chat history). Assignment 7 extends it with authentication, secure password storage, session management, and input validation — without rewriting the core networking or GUI logic.
+This project started as a basic multi-client TCP chat application (broadcast messages, private messages, online user list, chat history) and extends it with authentication, secure password storage, session management, and input validation — without rewriting the core networking or GUI logic.
 
 ## Features
 
