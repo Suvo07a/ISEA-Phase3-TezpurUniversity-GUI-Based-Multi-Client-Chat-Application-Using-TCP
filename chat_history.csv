@@ -1,0 +1,13 @@
+timestamp,sender,receiver,message_type,message
+15:30:07,user10,ALL,broadcast,hii
+15:30:11,user9,ALL,broadcast,heloo
+15:30:16,user8,ALL,broadcast,hii
+15:30:21,user7,ALL,broadcast,hii
+15:30:38,user7,ALL,broadcast,heloo
+15:30:44,user6,ALL,broadcast,heloo
+15:30:48,user5,ALL,broadcast,hii
+15:30:52,vishal,ALL,broadcast,nice
+15:31:02,vishal,ALL,broadcast,ysoo
+15:31:14,rahul,ALL,broadcast,yepp
+15:31:19,neel,ALL,broadcast,hii
+15:31:25,suvo,ALL,broadcast,helooo
